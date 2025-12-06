@@ -17,16 +17,16 @@ Welcome! This repository showcases my **progressive learning journey in cybersec
 ---
 
 ## 🗂 Roadmap Progress
-- [x] Stage 0 — Foundations  
-- [ ] Stage 1 — Networking Fundamentals  
-- [ ] Stage 2 — Linux & Scripting  
-- [ ] Stage 3 — Security Essentials  
-- [ ] Stage 4 — Blue Team / SOC Analyst  
-- [ ] Stage 5 — Red Team / Pentesting  
-- [ ] Stage 6 — Cloud Security  
-- [ ] Stage 7 — Specialized Skills  
-- [ ] Stage 8 — Portfolio & GitHub Progress  
-- [ ] Stage 9 — Job Readiness  
+- [x] [Stage 0 — Foundations (Dec-2025)](Stage_0_Foundations.md)
+- [ ] [Stage 1 — Networking Fundamentals](Stage_1_Networking.md)
+- [ ] [Stage 2 — Linux & Scripting](Stage_2_Linux_Scripting.md)
+- [ ] [Stage 3 — Security Essentials](Stage_3_Security_Essentials.md)
+- [ ] [Stage 4 — Blue Team / SOC Analyst](Stage_4_BlueTeam.md)
+- [ ] [Stage 5 — Red Team / Pentesting](Stage_5_RedTeam.md)
+- [ ] [Stage 6 — Cloud Security](Stage_6_Cloud.md)
+- [ ] [Stage 7 — Specialized Skills](Stage_7_Specialized.md)
+- [ ] [Stage 8 — Portfolio & GitHub Progress](Stage_8_Portfolio.md)
+- [ ] [Stage 9 — Job Readiness](Stage_9_JobReadiness.md)
 
 ---
 
@@ -202,8 +202,3 @@ Welcome! This repository showcases my **progressive learning journey in cybersec
 ![Linux](https://img.shields.io/badge/Linux-Familiar-orange)
 
 ---
-
-## ✅ Roadmap Progress
-- [x] Stage 0 — Foundations (Dec-2025, ...)
-- [ ] Stage 1 — Networking
-- [ ] Stage 2 — Linux & Scripting
