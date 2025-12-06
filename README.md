@@ -200,3 +200,10 @@ Welcome! This repository showcases my **progressive learning journey in cybersec
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Started-blue)
 ![Python](https://img.shields.io/badge/Python-Basic-yellow)
 ![Linux](https://img.shields.io/badge/Linux-Familiar-orange)
+
+---
+
+## ✅ Roadmap Progress
+- [x] Stage 0 — Foundations (Dec-2025, ...)
+- [ ] Stage 1 — Networking
+- [ ] Stage 2 — Linux & Scripting
